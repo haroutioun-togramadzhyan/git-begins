@@ -17,3 +17,12 @@ Les 3 commandes de push :
 la commande de pull :
 
 git pull <remote> <branch>
+
+
+
+créer une branche :
+git branch <branch_name>
+
+
+switcher une branche :
+git checkout <branch_name>
