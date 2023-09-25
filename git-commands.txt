@@ -1,5 +1,4 @@
-Cloner un repository : 
-
+Cloner un repository :
 
 -git clone https://github.com/utilisateur/mon-projet
 
@@ -7,9 +6,14 @@ Cloner un repository :
 
 Les 3 commandes de push :
 
-
 -git push origin main
 
 -git push origin <nom_de_la_branche>
 
 -git push --all origin
+
+
+
+la commande de pull :
+
+git pull <remote> <branch>
